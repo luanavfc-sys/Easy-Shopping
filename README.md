@@ -5,6 +5,8 @@ Este é um projeto de uma landing page desenvolvido durante os estudos no DevClu
 
 Além da versão para desktop, também desenvolvi a versão para dispositivos móveis, adaptando o layout para diferentes tamanhos de tela utilizando CSS responsivo.
 
+<img src="Captura de Tela (15).png">
+
 ## 🚀 Tecnologias utilizadas
 
 - HTML5
